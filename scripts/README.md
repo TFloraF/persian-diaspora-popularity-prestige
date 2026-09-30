@@ -1,1 +1,1 @@
-This folder contains the data-retrieval and descriptive-analysis scripts. The scripts were generated or substantially developed with AI assistance and were run and checked by the researcher.
+Some scripts were developed through AI assisted coding. I ran and checked the scripts and verified their outputs.
