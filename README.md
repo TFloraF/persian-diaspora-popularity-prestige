@@ -103,9 +103,10 @@ The popularity indicators agree strongly with one another in this sample. Litera
 
 Values were collected in September 2026. Individual retrieval dates, source URLs, evidence notes, and missing-data decisions are recorded in the workbooks.
 
-## AI-use disclosure
 
-Python scripts and provisional data cleaning suggestions were substantially developed with help of AI. I made the final decisions about the operational criteria, manually checked ambiguous DNB records and external sources, reviewed and corrected the suggested classifications, ran the scripts, and verified their outputs. I developed the interpretation myself, partly through guided discussion with AI. The project report text is my own; AI was used for factual consistency and clarity checks on my own writing.
+## Development note
+
+This project used AI-assisted coding for parts of the data-retrieval, cleaning and analysis workflow. I made the final methodological decisions, reviewed ambiguous records and suggested classifications, ran the scripts, and verified the outputs and interpretation.
 
 ## Reuse note
 
